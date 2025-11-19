@@ -1,4 +1,4 @@
-module extdust
+module github.com/awsms/extdust
 
 go 1.23.5
 
